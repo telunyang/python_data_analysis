@@ -17,7 +17,6 @@ Python 資料分析
   - 可以在 Instagram 或 LinkedIn 加我好友，然後透過傳訊來討論。
   - 記得跟我說你是哪一班，路人我就只好略過了，我只把時間留給學生 (茶~
 
-## 合作聯絡方式
+## 聯絡方式
 - [LinkedIn](https://www.linkedin.com/in/telunyang/)
-- [YouTube](https://www.youtube.com/@darreninfo-boatman)
 - [Instagram](https://www.instagram.com/darreninfo.cc/)
